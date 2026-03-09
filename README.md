@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kauã Cazzaniga
 
-🚀 **Junior Software Engineer | JavaScript & **  
+🚀 **Junior Software Engineer | JavaScript & Phyton **  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
