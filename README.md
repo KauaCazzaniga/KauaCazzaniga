@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kauã Cazzaniga
 
-🚀 **Junior Software Engineer | JavaScript & Phyton **  
+🚀 **Junior Software Engineer | JavaScript & Phyton**  
 
 I am a Software Engineering student dedicated to building robust APIs and developing seamless Full-Stack solutions.
 My expertise spans across both Frontend and Backend development, focusing on creating efficient and scalable applications.
