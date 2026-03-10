@@ -7,19 +7,6 @@ My expertise spans across both Frontend and Backend development, focusing on cre
 
 ---
 
-## 🌐 Where to find me
-
-<p align="left">
-  <a href="https://github.com/KauaCazzaniga">
-    <img src="https://img.shields.io/badge/GitHub-KauaCazzaniga-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/kauacazzaniga">
-    <img src="https://img.shields.io/badge/Instagram-@kauacazzaniga-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🧠 What I do
 
 -   ⚡ Performance optimization
